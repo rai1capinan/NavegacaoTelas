@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rai.csilva\\source\\repos\\NavegacaoDeTelas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD16BB1C-FCC1-4CE8-8901-ABD2AA1ED8FE}|NavegacaoDeTelas\\NavegacaoDeTelas.csproj|c:\\users\\rai.csilva\\source\\repos\\navegacaodetelas\\navegacaodetelas\\view\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD16BB1C-FCC1-4CE8-8901-ABD2AA1ED8FE}|NavegacaoDeTelas\\NavegacaoDeTelas.csproj|solutionrelative:navegacaodetelas\\view\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD16BB1C-FCC1-4CE8-8901-ABD2AA1ED8FE}|NavegacaoDeTelas\\NavegacaoDeTelas.csproj|c:\\users\\rai.csilva\\source\\repos\\navegacaodetelas\\navegacaodetelas\\view\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD16BB1C-FCC1-4CE8-8901-ABD2AA1ED8FE}|NavegacaoDeTelas\\NavegacaoDeTelas.csproj|solutionrelative:navegacaodetelas\\view\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD16BB1C-FCC1-4CE8-8901-ABD2AA1ED8FE}|NavegacaoDeTelas\\NavegacaoDeTelas.csproj|c:\\users\\rai.csilva\\source\\repos\\navegacaodetelas\\navegacaodetelas\\view\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BD16BB1C-FCC1-4CE8-8901-ABD2AA1ED8FE}|NavegacaoDeTelas\\NavegacaoDeTelas.csproj|solutionrelative:navegacaodetelas\\view\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD16BB1C-FCC1-4CE8-8901-ABD2AA1ED8FE}|NavegacaoDeTelas\\NavegacaoDeTelas.csproj|c:\\users\\rai.csilva\\source\\repos\\navegacaodetelas\\navegacaodetelas\\view\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BD16BB1C-FCC1-4CE8-8901-ABD2AA1ED8FE}|NavegacaoDeTelas\\NavegacaoDeTelas.csproj|solutionrelative:navegacaodetelas\\view\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\rai.csilva\\source\\repos\\NavegacaoDeTelas\\NavegacaoDeTelas\\View\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "NavegacaoDeTelas\\View\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\rai.csilva\\source\\repos\\NavegacaoDeTelas\\NavegacaoDeTelas\\View\\MainPage.xaml.cs",
+              "RelativeToolTip": "NavegacaoDeTelas\\View\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T19:05:45.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\rai.csilva\\source\\repos\\NavegacaoDeTelas\\NavegacaoDeTelas\\View\\MainPage.xaml",
+              "RelativeDocumentMoniker": "NavegacaoDeTelas\\View\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\rai.csilva\\source\\repos\\NavegacaoDeTelas\\NavegacaoDeTelas\\View\\MainPage.xaml",
+              "RelativeToolTip": "NavegacaoDeTelas\\View\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-30T17:12:29.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\rai.csilva\\source\\repos\\NavegacaoDeTelas\\NavegacaoDeTelas\\View\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "NavegacaoDeTelas\\View\\Login.xaml.cs",
+              "ToolTip": "C:\\Users\\rai.csilva\\source\\repos\\NavegacaoDeTelas\\NavegacaoDeTelas\\View\\Login.xaml.cs",
+              "RelativeToolTip": "NavegacaoDeTelas\\View\\Login.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T18:46:53.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "C:\\Users\\rai.csilva\\source\\repos\\NavegacaoDeTelas\\NavegacaoDeTelas\\View\\Login.xaml",
+              "RelativeDocumentMoniker": "NavegacaoDeTelas\\View\\Login.xaml",
+              "ToolTip": "C:\\Users\\rai.csilva\\source\\repos\\NavegacaoDeTelas\\NavegacaoDeTelas\\View\\Login.xaml",
+              "RelativeToolTip": "NavegacaoDeTelas\\View\\Login.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-30T18:46:35.585Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

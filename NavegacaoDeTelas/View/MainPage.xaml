@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="NavegacaoDeTelas.MainPage"
+             Background="White">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,60"
+            Spacing="30"
+            HorizontalOptions="Center"
+            VerticalOptions="Center">
+
+
+            <Label 
+                Text="Cadastro de Usuário"
+                FontSize="28"
+                FontAttributes="Bold"
+                HorizontalOptions="Center"
+                TextColor="#333"/>
+
+            <Grid RowDefinitions="Auto, Auto, Auto, Auto" RowSpacing="20" Margin="0,30,0,0">
+                <Entry 
+                    Grid.Row="0"
+                    BackgroundColor="White"
+                    WidthRequest="400"
+                    HeightRequest="50"
+                    Placeholder="Nome Completo"
+                    Keyboard="Text"
+
+                    PlaceholderColor="#999"
+                    TextColor="#333"
+                    />
+
+                <Entry 
+                    Grid.Row="1"
+                    BackgroundColor="White"
+                    WidthRequest="400"
+                    HeightRequest="50"
+                    Placeholder="Data de Nascimento"
+                    Keyboard="Text"
+                    PlaceholderColor="#999"
+                    TextColor="#333"
+                    />
+
+                <Entry 
+                    Grid.Row="2"
+                    BackgroundColor="White"
+                    WidthRequest="400"
+                    HeightRequest="50"
+                    Placeholder="Email"
+                    Keyboard="Email"
+                    PlaceholderColor="#999"
+                    TextColor="#333"
+                    />
+
+                <Entry 
+                    Grid.Row="3"
+                    BackgroundColor="White"
+                    WidthRequest="400"
+                    HeightRequest="50"
+                    Placeholder="Senha"
+                    IsPassword="True"
+                    PlaceholderColor="#999"
+                    TextColor="#333"
+                    />
+            </Grid>
+
+            <Button 
+                Text="Cadastrar"
+                WidthRequest="130"
+                HeightRequest="5"
+                BackgroundColor="#4CAF50"
+                TextColor="White"
+                CornerRadius="12"
+                FontSize="18"
+                FontAttributes="Bold"
+                HorizontalOptions="Center"
+                Margin="0,30,0,0"/>
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
